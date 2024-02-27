@@ -13,7 +13,7 @@ namespace DebugDemo2024
             int result = GetSum(a, b);
 
             Console.WriteLine(result);
-            //Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
 
             int res2 = 0;
 
